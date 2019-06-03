@@ -4,7 +4,7 @@
 		module="passwordplay_2.12"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20190603131315"
+		publication="20190603135038"
 	>
 		<description>
 		passwordplay
@@ -47,15 +47,15 @@
 		<dependency org="com.typesafe.play" name="play-enhancer" rev="1.2.2" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="twirl-api_2.12" rev="1.4.0" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-ebean_2.12" rev="5.0.1" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.play" name="play-server_2.12" rev="2.7.0" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.play" name="play-test_2.12" rev="2.7.0" conf="test->default(compile)"/>
-		<dependency org="com.typesafe.play" name="play-omnidoc_2.12" rev="2.7.0" conf="docs->default(compile)"/>
-		<dependency org="com.typesafe.play" name="play-logback_2.12" rev="2.7.0" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.play" name="play-akka-http-server_2.12" rev="2.7.0" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.play" name="play-java-forms_2.12" rev="2.7.0" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.play" name="filters-helpers_2.12" rev="2.7.0" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.play" name="play-guice_2.12" rev="2.7.0" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.play" name="play-jdbc_2.12" rev="2.7.0" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.play" name="play-server_2.12" rev="2.7.2" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.play" name="play-test_2.12" rev="2.7.2" conf="test->default(compile)"/>
+		<dependency org="com.typesafe.play" name="play-omnidoc_2.12" rev="2.7.2" conf="docs->default(compile)"/>
+		<dependency org="com.typesafe.play" name="play-logback_2.12" rev="2.7.2" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.play" name="play-akka-http-server_2.12" rev="2.7.2" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.play" name="play-java-forms_2.12" rev="2.7.2" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.play" name="filters-helpers_2.12" rev="2.7.2" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.play" name="play-guice_2.12" rev="2.7.2" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.play" name="play-jdbc_2.12" rev="2.7.2" conf="compile->default(compile)"/>
 		<dependency org="com.h2database" name="h2" rev="1.4.197" conf="compile->default(compile)"/>
 		<dependency org="org.awaitility" name="awaitility" rev="2.0.0" conf="test->default(compile)"/>
 		<dependency org="org.assertj" name="assertj-core" rev="3.6.2" conf="test->default(compile)"/>

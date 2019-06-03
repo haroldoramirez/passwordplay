@@ -1,10 +1,10 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/prototypeplay/conf/ebean.properties,/home/haroldo.nobrega/projetos/prototypeplay/target/scala-2.12/classes/ebean.properties)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/prototypeplay/conf/evolutions,/home/haroldo.nobrega/projetos/prototypeplay/target/scala-2.12/classes/evolutions)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/prototypeplay/conf/evolutions/default,/home/haroldo.nobrega/projetos/prototypeplay/target/scala-2.12/classes/evolutions/default)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/prototypeplay/conf/evolutions/default/1.sql,/home/haroldo.nobrega/projetos/prototypeplay/target/scala-2.12/classes/evolutions/default/1.sql)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/prototypeplay/conf/server.conf,/home/haroldo.nobrega/projetos/prototypeplay/target/scala-2.12/classes/server.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/prototypeplay/conf/application.conf,/home/haroldo.nobrega/projetos/prototypeplay/target/scala-2.12/classes/application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/prototypeplay/conf/logback.xml,/home/haroldo.nobrega/projetos/prototypeplay/target/scala-2.12/classes/logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/prototypeplay/conf/routes,/home/haroldo.nobrega/projetos/prototypeplay/target/scala-2.12/classes/routes)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/prototypeplay/conf/secure.conf,/home/haroldo.nobrega/projetos/prototypeplay/target/scala-2.12/classes/secure.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/passwordplay/conf/ebean.properties,/home/haroldo.nobrega/projetos/passwordplay/target/scala-2.12/classes/ebean.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/passwordplay/conf/evolutions,/home/haroldo.nobrega/projetos/passwordplay/target/scala-2.12/classes/evolutions)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/passwordplay/conf/evolutions/default,/home/haroldo.nobrega/projetos/passwordplay/target/scala-2.12/classes/evolutions/default)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/passwordplay/conf/evolutions/default/1.sql,/home/haroldo.nobrega/projetos/passwordplay/target/scala-2.12/classes/evolutions/default/1.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/passwordplay/conf/server.conf,/home/haroldo.nobrega/projetos/passwordplay/target/scala-2.12/classes/server.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/passwordplay/conf/application.conf,/home/haroldo.nobrega/projetos/passwordplay/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/passwordplay/conf/logback.xml,/home/haroldo.nobrega/projetos/passwordplay/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/passwordplay/conf/routes,/home/haroldo.nobrega/projetos/passwordplay/target/scala-2.12/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/haroldo.nobrega/projetos/passwordplay/conf/secure.conf,/home/haroldo.nobrega/projetos/passwordplay/target/scala-2.12/classes/secure.conf)[0m

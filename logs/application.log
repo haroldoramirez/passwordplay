@@ -1,10 +1,90 @@
-2019-04-23 10:33:51,044 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-4 - Database [default] initialized at jdbc:h2:mem:play;DB_CLOSE_DELAY=-1
-2019-04-23 10:33:51,046 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-4 - Creating Pool for datasource 'default'
-2019-04-23 10:33:52,045 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+2019-06-03 13:40:19,895 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-3 - Database [default] initialized at jdbc:h2:mem:play;DB_CLOSE_DELAY=-1
+2019-06-03 13:40:19,903 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-3 - Creating Pool for datasource 'default'
+2019-06-03 13:40:21,542 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-3 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
     play.filters.headers.SecurityHeadersFilter
     play.filters.hosts.AllowedHostsFilter
 
-2019-04-23 10:33:52,127 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev) (no global state)
-2019-04-23 10:33:52,143 [INFO] from application in application-akka.actor.default-dispatcher-5 - Shutting down connection pool.
+2019-06-03 13:40:21,654 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-3 - Application started (Dev) (no global state)
+2019-06-03 13:40:21,951 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:24,523 [INFO] from application in application-akka.actor.default-dispatcher-7 - Shutting down connection pool.
+2019-06-03 13:40:24,798 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-9 - Database [default] initialized at jdbc:h2:mem:play;DB_CLOSE_DELAY=-1
+2019-06-03 13:40:24,798 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-9 - Creating Pool for datasource 'default'
+2019-06-03 13:40:25,182 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-9 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2019-06-03 13:40:25,192 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-9 - Application started (Dev) (no global state)
+2019-06-03 13:40:25,236 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-5 - Cookie failed message authentication check
+2019-06-03 13:40:25,238 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-4 - Cookie failed message authentication check
+2019-06-03 13:40:25,238 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:25,241 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-3 - Cookie failed message authentication check
+2019-06-03 13:40:25,246 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:25,255 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:25,564 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:25,567 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-8 - Cookie failed message authentication check
+2019-06-03 13:40:25,590 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:25,600 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-8 - Cookie failed message authentication check
+2019-06-03 13:40:25,614 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:25,655 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-4 - Cookie failed message authentication check
+2019-06-03 13:40:25,657 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:25,704 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:25,710 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-4 - Cookie failed message authentication check
+2019-06-03 13:40:25,741 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:25,743 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:25,777 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-4 - Cookie failed message authentication check
+2019-06-03 13:40:25,779 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:25,780 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-7 - Cookie failed message authentication check
+2019-06-03 13:40:25,782 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-9 - Cookie failed message authentication check
+2019-06-03 13:40:25,815 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:25,829 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-4 - Cookie failed message authentication check
+2019-06-03 13:40:25,842 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-7 - Cookie failed message authentication check
+2019-06-03 13:40:25,842 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:25,861 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-3 - Cookie failed message authentication check
+2019-06-03 13:40:25,864 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-3 - Cookie failed message authentication check
+2019-06-03 13:40:25,874 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-7 - Cookie failed message authentication check
+2019-06-03 13:40:25,878 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-9 - Cookie failed message authentication check
+2019-06-03 13:40:25,878 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:25,910 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-4 - Cookie failed message authentication check
+2019-06-03 13:40:25,929 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-4 - Cookie failed message authentication check
+2019-06-03 13:40:25,942 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-9 - Cookie failed message authentication check
+2019-06-03 13:40:25,942 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:25,942 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:25,965 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-9 - Cookie failed message authentication check
+2019-06-03 13:40:25,976 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:25,977 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-8 - Cookie failed message authentication check
+2019-06-03 13:40:25,978 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-3 - Cookie failed message authentication check
+2019-06-03 13:40:25,982 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:26,030 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:26,038 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-4 - Cookie failed message authentication check
+2019-06-03 13:40:26,039 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-9 - Cookie failed message authentication check
+2019-06-03 13:40:26,051 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-4 - Cookie failed message authentication check
+2019-06-03 13:40:26,052 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:26,053 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-8 - Cookie failed message authentication check
+2019-06-03 13:40:26,075 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-8 - Cookie failed message authentication check
+2019-06-03 13:40:26,110 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:26,110 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:26,110 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-4 - Cookie failed message authentication check
+2019-06-03 13:40:26,111 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-9 - Cookie failed message authentication check
+2019-06-03 13:40:26,113 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-7 - Cookie failed message authentication check
+2019-06-03 13:40:26,114 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-3 - Cookie failed message authentication check
+2019-06-03 13:40:26,141 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-7 - Cookie failed message authentication check
+2019-06-03 13:40:26,150 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-9 - Cookie failed message authentication check
+2019-06-03 13:40:26,174 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-6 - Cookie failed message authentication check
+2019-06-03 13:40:26,174 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-2 - Cookie failed message authentication check
+2019-06-03 13:40:26,174 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-8 - Cookie failed message authentication check
+2019-06-03 13:40:26,176 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-5 - Cookie failed message authentication check
+2019-06-03 13:40:26,182 [WARN] from play.api.mvc.DefaultUrlEncodedCookieDataCodec in application-akka.actor.default-dispatcher-3 - Cookie failed message authentication check
+2019-06-03 13:50:42,040 [INFO] from application in application-akka.actor.default-dispatcher-42 - Shutting down connection pool.
+2019-06-03 13:50:42,197 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-165 - Database [default] initialized at jdbc:h2:mem:play;DB_CLOSE_DELAY=-1
+2019-06-03 13:50:42,197 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-165 - Creating Pool for datasource 'default'
+2019-06-03 13:50:42,358 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-165 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2019-06-03 13:50:42,370 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-165 - Application started (Dev) (no global state)

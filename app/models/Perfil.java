@@ -1,5 +1,10 @@
 package models;
 
+/**
+ * Perfil enum
+ */
+
+
 public enum Perfil {
 
     USUARIO(1), GERENTE(2), SUPERVISOR(3), ADMINISTRADOR(4);

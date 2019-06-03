@@ -1,14 +1,7 @@
 (function () {
   'use strict';
 
-  angular
-    .module('ml.menu', [])
-
-    .constant('menuConfig', {
-      closeOthers: true
-    })
-
-    .controller('MenuController', ['$scope', '$attrs', '$location', '$rootScope', 'menuConfig', MenuController])
+  angular.module('ml.menu', []).constant('menuConfig', {closeOthers: true}).controller('MenuController', ['$scope', '$attrs', '$location', '$rootScope', 'menuConfig', MenuController])
 
     // The ml-menu directive sets up the directive controller
     .directive('mlMenu', Menu)

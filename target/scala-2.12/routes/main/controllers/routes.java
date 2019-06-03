@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/haroldo.nobrega/projetos/prototypeplay/conf/routes
-// @DATE:Tue Apr 23 10:33:16 BRT 2019
+// @SOURCE:/home/haroldo.nobrega/projetos/passwordplay/conf/routes
+// @DATE:Mon Jun 03 13:51:29 BRT 2019
 
 package controllers;
 
