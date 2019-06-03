@@ -1,0 +1,111 @@
+@()
+
+<!DOCTYPE html>
+<html lang="en" ng-app="material-lite">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Material Lite Angular Admin Theme">
+    <meta name="author" content="Theme Guys - The Netherlands">
+
+    <title>Material Lite</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!-- build:css css/vendors.min.css -->
+    @*Material Design Lite*@
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("bower_components/angular-ui-select/dist/select.css")">
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/select2.css")">
+
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("bower_components/ng-wig/dist/css/ng-wig.css")">
+
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("bower_components/ng-table/dist/ng-table.css")">
+
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("bower_components/pikaday/css/pikaday.css")">
+
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("bower_components/c3/c3.css")">
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("bower_components/font-awesome/css/font-awesome.css")">
+
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("bower_components/animate.css/animate.css")">
+
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/material-lite-blank.css")">
+
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/helpers.css")">
+
+
+      <!-- IE Compatibility shims -->
+      <!--[if lt IE 9]>
+  <script app="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <![endif]-->
+      <!--[if IE]>
+  <script app="//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.1.7/es5-shim.min.js"></script>
+  <script app="//cdnjs.cloudflare.com/ajax/libs/classlist/2014.01.31/classList.min.js"></script>
+  <script app="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+  <script app="//cdnjs.cloudflare.com/ajax/libs/flexie/1.0.3/flexie.min.js"></script>
+  <![endif]-->
+      <!-- end shims -->
+
+  </head>
+
+  <body ng-controller="MainController">
+    <div id="app" class="app" ng-include="'assets/app/tpl/demo/app.html'"></div>
+
+    <script src="@routes.Assets.versioned("bower_components/material-design-lite/material.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/angular/angular.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/angular-route/angular-route.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/angular-animate/angular-animate.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/angular-ui-select/dist/select.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/angular-sanitize/angular-sanitize.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/angular-local-storage/dist/angular-local-storage.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/lodash/dist/lodash.min.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/angular-simple-logger/dist/angular-simple-logger.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/angular-google-maps/dist/angular-google-maps.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/ng-file-upload/ng-file-upload.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/ng-table/dist/ng-table.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/ng-wig/dist/ng-wig.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/moment/moment.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/pikaday/pikaday.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/pikaday-angular/pikaday-angular.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/d3/d3.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/c3/c3.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/c3-angular/c3-angular.min.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/angulargrid/angulargrid.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/ngSmoothScroll/dist/angular-smooth-scroll.min.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("bower_components/ngSmoothScroll/dist/angular-smooth-scroll.min.js")" type="text/javascript"></script>
+
+
+    <script src="@routes.Assets.versioned("app/js/vendors/angular-placeholders.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/vendors/angular-mdl.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/app.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/app.route.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/app.config.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/app.constants.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/main.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/dashboard.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/todo.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/ui-elements/loading.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/gallery.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/forms/advanced-elements/select.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/forms/advanced-elements/upload.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/forms/advanced-elements/text-editor.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/maps/clickable-map.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/maps/searchable-map.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/maps/zoomable-map.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/maps/styled-map.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/maps/full-map.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/charts.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/controllers/tables-data.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/directives/dynamic-color.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/directives/header.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/demo/directives/sidebar.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/modules/chat.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/modules/menu.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/modules/svg-map.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/modules/todo.js")" type="text/javascript"></script>
+    <script src="@routes.Assets.versioned("app/js/directives/sticky.js")" type="text/javascript"></script>
+
+      <!-- endbuild -->
+  </body>
+</html>
+

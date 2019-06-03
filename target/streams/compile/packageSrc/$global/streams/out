@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/haroldo.nobrega/projetos/prototypeplay/target/scala-2.12/prototypeplay_2.12-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	evolutions/default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/conf/evolutions/default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	server.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/conf/server.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models/BaseModel.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/app/models/BaseModel.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models/Pais.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/app/models/Pais.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	evolutions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/conf/evolutions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/conf/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	secure.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/conf/secure.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/conf/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/HomeController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/app/controllers/HomeController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	evolutions/default/1.sql[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/conf/evolutions/default/1.sql[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ebean.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/conf/ebean.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/haroldo.nobrega/projetos/prototypeplay/conf/logback.xml[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
